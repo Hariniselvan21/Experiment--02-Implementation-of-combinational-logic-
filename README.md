@@ -16,6 +16,8 @@ Logical gates are electronic circuits which perform logical functions on one or 
 ## Logic Diagram
 
 ![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/d81b935b-6ff5-4bd6-8190-3c642b55e760)
+![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/079f0822-aa0e-4942-9fe7-785a544e1f8b)
+
 
 ## Procedure
 Create a project with required entities. *Create a module along with respective file name. *Run the respective programs for the given boolean equations. *Run the module and get the respective RTL outputs. *Create university program(VWF) for getting timing diagram. *Give the respective inputs for timing diagram and obtain the results.
