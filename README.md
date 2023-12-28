@@ -15,12 +15,13 @@ Logical gates are electronic circuits which perform logical functions on one or 
  
 ## Logic Diagram
 
-![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/23b89092-ab9f-4b54-9b93-4d99029ecc07)
+![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/d81b935b-6ff5-4bd6-8190-3c642b55e760)
 
 ## Procedure
 Create a project with required entities. *Create a module along with respective file name. *Run the respective programs for the given boolean equations. *Run the module and get the respective RTL outputs. *Create university program(VWF) for getting timing diagram. *Give the respective inputs for timing diagram and obtain the results.
 
 ## Program:
+
 /*Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by: PRIYADHARSHINI S
 RegisterNumber: 23003522
@@ -57,7 +58,8 @@ Program to implement the given logic function and to verify its operations in qu
 ![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/3d525f6a-5ec9-4b98-9427-002ef5143deb)
 
 ## Timing Diagram
-![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/e0c30db1-2ba6-4356-b1b8-17bd31d2f618)
+
+![image](https://github.com/Hariniselvan21/Experiment--02-Implementation-of-combinational-logic-/assets/155089072/3493718d-05af-461b-9d01-b33393843410)
 
 ## Result
 
